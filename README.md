@@ -1,5 +1,5 @@
 # Gemini AI Chatbot
-**Demo Link:** [Website Demo](https://whale-app-htuk7.ondigitalocean.app/)
+
 <img src="static/images/demo.gif" alt="Demo GIF" width="700"/>
 
 ## Overview
@@ -11,7 +11,7 @@ Please note that the Gemini API allows 60 queries per minute.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/FareedKhan-dev/Gemini-AI-chatbot.git
+git clone https://github.com/hamza-0987/gemini-chatbot-flask.git
 ```
 
 ### Step 2: Add API Key
